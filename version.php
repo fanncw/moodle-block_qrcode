@@ -18,7 +18,10 @@
  * Version details
  *
  * @package    block_qrcode
- * @copyright  2016 Chi-Wen Fann (http://www.kipt.com.tw)
+ * @author:     Chi-Wen Fann  & Hsinchu County Education Development and Information Institute
+ * @date:    2017-06-16
+ *
+ * @copyright  Chi-Wen Fann<http://www.kipt.com.tw>  & Hsinchu County Education Development and Information Institute<http://www.hcc.edu.tw> 
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

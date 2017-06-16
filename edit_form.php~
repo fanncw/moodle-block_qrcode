@@ -17,7 +17,6 @@
 /**
  * Form for editing QRCode block instances.
  *
- * @package   block_qrcode
  * @copyright 2016 Chi-Wen Fann (http://www.kipt.com.tw)
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */

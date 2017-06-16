@@ -1,1 +1,0 @@
-# moodle-block_qrcode
